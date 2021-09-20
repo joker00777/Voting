@@ -2,7 +2,7 @@
 
 GOT-Voting is an online Voting platform to vote your favourite game of thrones house which is built using etherium blockchain technology.The web application uses solidity smart contracts for its back-end logic and web3js API with react for it's front end.
 
-**The site is live on https://got-voting.web.app/ **
+**The site is live on** https://got-voting.web.app/ 
 
 
 Only the owner of the smart contracts have the ability to add new houses.
@@ -42,11 +42,18 @@ One of the most important factors of voting is security. Currently, voting syste
 All votes could be verified as soon as voting is finished to ensure they are all counted correctly. Without blockchain, this would have to be done by a central body overseeing the process. This causes many questions to arise about the trust of these central bodies. But with blockchain and its decentralised ledger system, there is no need for a potentially fallible or corruptible central body.
 
 #Contributing
-I would love everyone's suggesstion to improve this project.
+
+As this is my first decentrlized web application I would love everyone's suggesstion to improve this project and also can suggest me good code practice : ).
+
 1)Fork the Project
+
 2)Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
 3)Commit your Changes (git commit -m 'Add some AmazingFeature')
+
 4)Push to the Branch (git push origin feature/AmazingFeature)
+
 5)Open a Pull Request
+
 
 
