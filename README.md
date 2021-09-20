@@ -1,8 +1,8 @@
-# About the Project
+# About the Project  https://got-voting.web.app/
 
 GOT-Voting is an online Voting platform to vote your favourite game of thrones house which is built using etherium blockchain technology.The web application uses solidity smart contracts for its back-end logic and web3js API with react for it's front end.
 
-**The site is live on** https://got-voting.web.app/ 
+ 
 
 
 Only the owner of the smart contracts have the ability to add new houses.
