@@ -22,6 +22,7 @@ You should have
 3)Metamask(It is like an E-wallet that can be added as in extension in modern browsers).
 
 **Installation**
+
 1)clone the app
 ```
   git clone https://github.com/joker00777/Voting.git
