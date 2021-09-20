@@ -15,10 +15,13 @@ One voter can vote once and he or she can't take back their votes becuase smart 
 # Getting Started
 
 **Prerequisites**
+
 To get a local copy up and running follow these simple example steps.
-You should have 
-1)npm
-2)Truffle
+
+1)npm.
+
+2)Truffle(Builds Local blockchain in yr local enviroment).
+
 3)Metamask(It is like an E-wallet that can be added as in extension in modern browsers).
 
 **Installation**
