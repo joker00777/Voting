@@ -1,0 +1,56 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App {
+  overflow-x: hidden;
+}
+
+.barchart{
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+
+.increase_size{
+  text-align: center;
+  font-size: 2rem;
+}
+
+.noline{
+  display: inline;
+}
+
+.margin_bottom{
+  margin-bottom: 4%;
+}
+
+.margin_left{
+  margin-left: 50px;
+}
+
+.disabled{
+  pointer-events: none;
+}
+
+.small{
+  margin-left: 20%;
+  margin-right: 60%;
+}
+
+
+/* .App-logo {
+  height: 40vmin;
+}
+
+
+
+.App-link {
+  color: #09d3ac;
+} */
