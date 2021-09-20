@@ -12,7 +12,7 @@ Only the owner of the smart contracts have the ability to add new houses.
 
 One voter can vote once and he or she can't take back their votes becuase smart contracts are immutable.Once a transaction is done it can't be roll backed.
 
-#Getting Started
+# Getting Started
 
 **Prerequisites**
 To get a local copy up and running follow these simple example steps.
@@ -37,11 +37,12 @@ You should have
   npm start
 ```
 
-#Usage
+# Usage
+
 One of the most important factors of voting is security. Currently, voting systems are very open to hacks. Without substantial security mechanisms in place, malicious actors can enter the system and alter the outcome. This is where blockchain comes in. The technology has the ability to introduce a seemingly unhackable system.
 All votes could be verified as soon as voting is finished to ensure they are all counted correctly. Without blockchain, this would have to be done by a central body overseeing the process. This causes many questions to arise about the trust of these central bodies. But with blockchain and its decentralised ledger system, there is no need for a potentially fallible or corruptible central body.
 
-#Contributing
+# Contributing
 
 As this is my first decentrlized web application I would love everyone's suggesstion to improve this project and also can suggest me good code practice : ).
 
