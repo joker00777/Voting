@@ -16,7 +16,7 @@ One voter can vote once and he or she can't take back their votes becuase smart 
 
 **Prerequisites**
 
-To get a local copy up and running follow these simple example steps.
+
 
 1)npm.
 
@@ -25,6 +25,8 @@ To get a local copy up and running follow these simple example steps.
 3)Metamask(It is like an E-wallet that can be added as in extension in modern browsers).
 
 **Installation**
+
+To get a local copy up and running follow these simple example steps.
 
 1)clone the app
 ```
